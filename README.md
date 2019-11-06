@@ -1,5 +1,5 @@
 # My First Repository
-Git Tutorial
+Git Tutorial is terrible
 
 Let's give git a bash!
 
